@@ -54,8 +54,7 @@
 
 ```
 
-![](https://img-blog.csdnimg.cn/0e1cd025edd14f12bcebd76044c79925.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBATWFya19tZA==,size_20,color_FFFFFF,t_70,g_se,x_16)
-
+![](https://img-blog.csdnimg.cn/img_convert/855097f3f4e5bf023f982504bc8aed2a.png)
 ### 第二小节
 
 ### 第三小节
